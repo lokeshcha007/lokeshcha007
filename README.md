@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
-<h1 align="center">Hi 👋, I'm Kethepalli Yogeshwar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Chappa Lokesh</h1>
+<h3 align="center">A passionate developer from Hyderabad</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogi1710&label=Profile%20views&color=0e75b6&style=flat" alt="yogi1710" /> </p>
@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yogi1710/JavaScript/tree/master/portfolio](https://github.com/yogi1710/JavaScript/tree/master/portfolio)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **yogeshwar1710a@gmail.com**
+- 📫 How to reach me **lokeshcha2002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17UKEwHx9c5MlE5DCaAcbSTiE2IZkkAfV/view?usp=drivesdk](https://drive.google.com/file/d/17UKEwHx9c5MlE5DCaAcbSTiE2IZkkAfV/view?usp=drivesdk)
 
